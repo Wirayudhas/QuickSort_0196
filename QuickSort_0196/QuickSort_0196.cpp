@@ -85,4 +85,6 @@ void display() {
 		cout << arr[i] << " ";
 	}
 
-	
+	cout << "\nNumber of comparasions: " << cmp_count << endl;
+	cout << "Number of data movement: " << move_count << endl;
+}
