@@ -89,3 +89,6 @@ void display() {
 	cout << "Number of data movement: " << move_count << endl;
 }
 int main()
+{
+	char ch;
+	
