@@ -97,4 +97,9 @@ int main()
 		display();
 		cout << ch;
 		if (ch == 'n' || ch == 'N')
-			
+			break;
+		system("pause");
+		system("pause");
+	} while (true);
+
+	
